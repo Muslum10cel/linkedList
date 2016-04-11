@@ -1,0 +1,3 @@
+Mark Weiss:Data Structure and Algorithm Analysis:3rd Edition:Wesley:100:10
+Yvonne Rogers,Helen Sharp:Interaction Design:4th Edition:Wiley:120:5
+Daniel Liang:Intro to Java Programming:10th Edition:Pearson:150:20
